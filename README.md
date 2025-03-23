@@ -1,2 +1,2 @@
 # Re-covered
-Repository of a resource pack Re-covered meant for feedback & discussions.
+Repository of a minecraft resource pack Re-covered meant for feedback & discussions.
