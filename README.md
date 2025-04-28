@@ -57,7 +57,7 @@ When an enchanted book contains two or more enchantments, the texture of enchant
 
 </details>
 
-![Image showing all books](https://cdn.modrinth.com/data/6gN7YVi7/images/a378ec3c742b55df4ad1f42120c1a3a0533da620.png)
+![Image showing all books](https://cdn.modrinth.com/data/6gN7YVi7/images/bf01d617dcdcd9ae85185c9b58789482780c6b40.png)
 
 <details>
 <summary>Permissions & Contact & Feedback</summary>
