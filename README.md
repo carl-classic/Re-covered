@@ -2,8 +2,8 @@
 Repository of a minecraft resource pack [Re-covered](https://modrinth.com/resourcepack/enchanted-books-re-covered) meant for feedback & discussions.
 
 ## Modrinth Description
-[![Static Badge](https://img.shields.io/badge/Java_Edition-1.21.5-blue?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNCAyaDE2YTIgMiAwIDAgMSAyIDJ2MTZhMiAyIDAgMCAxLTIgMkg0YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0ybTIgNHY0aDR2Mkg4djZoMnYtMmg0djJoMnYtNmgtMnYtMmg0VjZoLTR2NGgtNFY2eiIvPjwvc3ZnPg%3D%3D&color=rgb(0%2C%20110%2C%20244))
-](https://modrinth.com/resourcepack/enchanted-books-re-covered/version/1.2)
+[![Static Badge](https://img.shields.io/badge/Java_Edition-1.21.6-blue?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNCAyaDE2YTIgMiAwIDAgMSAyIDJ2MTZhMiAyIDAgMCAxLTIgMkg0YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0ybTIgNHY0aDR2Mkg4djZoMnYtMmg0djJoMnYtNmgtMnYtMmg0VjZoLTR2NGgtNFY2eiIvPjwvc3ZnPg%3D%3D&color=rgb(0%2C%20110%2C%20244))
+](https://modrinth.com/resourcepack/enchanted-books-re-covered/version/1.3)
 [![Static Badge](https://img.shields.io/badge/Comments-Planet_Minecraft-blue?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzkyIiBoZWlnaHQ9IjE1MDQiIHZpZXdCb3g9IjAgMCAxNzkyIDE1MDQiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik02NDAgNjQwcTAtNTMtMzcuNS05MC41VDUxMiA1MTJ0LTkwLjUgMzcuNVQzODQgNjQwdDM3LjUgOTAuNVQ1MTIgNzY4dDkwLjUtMzcuNVQ2NDAgNjQwbTM4NCAwcTAtNTMtMzcuNS05MC41VDg5NiA1MTJ0LTkwLjUgMzcuNVQ3NjggNjQwdDM3LjUgOTAuNVQ4OTYgNzY4dDkwLjUtMzcuNVQxMDI0IDY0MG0zODQgMHEwLTUzLTM3LjUtOTAuNVQxMjgwIDUxMnQtOTAuNSAzNy41VDExNTIgNjQwdDM3LjUgOTAuNVQxMjgwIDc2OHQ5MC41LTM3LjVUMTQwOCA2NDBtMzg0IDBxMCAxNzQtMTIwIDMyMS41dC0zMjYgMjMzdC00NTAgODUuNXEtMTEwIDAtMjExLTE4cS0xNzMgMTczLTQzNSAyMjlxLTUyIDEwLTg2IDEzcS0xMiAxLTIyLTZ0LTEzLTE4cS00LTE1IDIwLTM3cTUtNSAyMy41LTIxLjVUMTk4IDEzOTh0MjMuNS0yNS41dDI0LTMxLjV0MjAuNS0zN3QyMC00OHQxNC41LTU3LjVUMzEzIDExMjZxLTE0Ni05MC0yMjkuNS0yMTYuNVQwIDY0MHEwLTE3NCAxMjAtMzIxLjV0MzI2LTIzM1Q4OTYgMHQ0NTAgODUuNXQzMjYgMjMzVDE3OTIgNjQwIi8%2BPC9zdmc%2B&color=rgb(0%2C%20110%2C%20244))
 ](https://www.planetminecraft.com/texture-pack/enchanted-books-recovered/)
 [![Static Badge](https://img.shields.io/badge/Feedback-GitHub-blue?style=flat&logo=github&color=rgb(0%2C%20110%2C%20244))](https://github.com/carl-classic/Re-covered/issues/new)
@@ -52,7 +52,7 @@ When an enchanted book contains two or more enchantments, the texture of enchant
   
 | Version             | Requirements          |
 |--------------------:|:--------------------- |
-| 1.21.5              | no mods required              |
+| 1.21.5+             | no mods required              |
 | 1.21.4 - 1.18       | requires [Optifine](https://optifine.net/home) or [CIT Resewn](https://modrinth.com/mod/cit-resewn) in order to work |
 
 </details>
