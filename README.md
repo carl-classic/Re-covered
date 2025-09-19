@@ -44,5 +44,5 @@ Now you can simply judge the book... by its cover.
 As for now, I'm maintaining the resource pack, listening to all of the criticism and suggestions, hoping to make it even better than it already is. Every time Mojang adds a new enchantment, I will try to be there to come up with something polished. Currently I have no plans for creating mod compatibilities.
 
 Thank you for downloading and sharing my project, it makes me very proud.\
-30 VI 2025
+19 IX 2025
 </details>
