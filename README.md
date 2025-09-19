@@ -12,7 +12,7 @@ Repository of a minecraft resource pack [Re-covered](https://modrinth.com/resour
 <summary>About</summary>
 
 **Re-covered** gives new textures to enchanted books, each with unique and intuitive look.\
-Drawn in vanilla art style, using symbols representing enchantments' effects.\
+Drawn in vanilla art style, using symbols that represent enchantments' effects.\
 The era of organized chests has arrived, and the days of endless item searching are over!\
 Now you can simply judge the book... by its cover.
 
