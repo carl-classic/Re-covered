@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures":
+    {
+		"layer0": "carl:item/bane_of_arthropods"
+	},
+	"gui_light": "front",
+	"display": {}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures":
+    {
+		"layer0": "carl:item/sweeping_edge"
+	},
+	"gui_light": "front",
+	"display": {}
+}

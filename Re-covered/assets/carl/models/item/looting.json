@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures":
+    {
+		"layer0": "carl:item/looting"
+	},
+	"gui_light": "front",
+	"display": {}
+}
