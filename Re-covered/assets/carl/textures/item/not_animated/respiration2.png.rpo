@@ -1,0 +1,3 @@
+{
+    condition: "!recovered.animatedCategory.respiration & recovered.animatedCategory.staticVariants.respiration.bubbles"
+}

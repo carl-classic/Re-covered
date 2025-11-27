@@ -1,0 +1,4 @@
+{
+    condition: "!recovered.animatedCategory.vanishingCurse & recovered.animatedCategory.staticVariants.vanishingCurse.paper",
+    fallback: "assets/carl/textures/item/not_animated/vanishing_curse2.png"
+}

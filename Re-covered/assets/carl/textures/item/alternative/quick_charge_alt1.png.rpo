@@ -1,0 +1,4 @@
+{
+    condition: "recovered.regularCategory.quickChargeVariant.altOne",
+    fallback: "assets/carl/textures/item/alternative/quick_charge_alt2.png"
+}

@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.fireAspect",
+    fallback: "assets/carl/textures/item/not_animated/fire_aspect.png"
+}

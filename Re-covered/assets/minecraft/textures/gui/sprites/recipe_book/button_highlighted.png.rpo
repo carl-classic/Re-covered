@@ -1,0 +1,4 @@
+{
+    condition: "recovered.regularCategory.recipeBookButton.opaque",
+    fallback: "assets/minecraft/textures/gui/sprites/recipe_book/transparent/button_highlighted.png"
+}

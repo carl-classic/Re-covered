@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.swiftSneak",
+    fallback: "assets/carl/textures/item/not_animated/swift_sneak.png"
+}
