@@ -56,12 +56,12 @@
 
     "rpo.recovered.regularCategory": "Options...",
 
-    "rpo.recovered.regularCategory.recipeBookButton": "Recipe Book Button Background Transparency",
-    "rpo.recovered.regularCategory.recipeBookButton.opaque": "Opaque",
-    "rpo.recovered.regularCategory.recipeBookButton.transparent": "Transparent",
-
-    "rpo.recovered.regularCategory.quickChargeVariant": "Quick Charge Variant",
-    "rpo.recovered.regularCategory.quickChargeVariant.default": "Default",
-    "rpo.recovered.regularCategory.quickChargeVariant.altOne": "Alternative 1",
-    "rpo.recovered.regularCategory.quickChargeVariant.altTwo": "Alternative 2"
+        "rpo.recovered.regularCategory.recipeBookButton": "Recipe Book Button Background Transparency",
+        "rpo.recovered.regularCategory.recipeBookButton.opaque": "Opaque",
+        "rpo.recovered.regularCategory.recipeBookButton.transparent": "Transparent",
+    
+        "rpo.recovered.regularCategory.quickChargeVariant": "Quick Charge Variant",
+        "rpo.recovered.regularCategory.quickChargeVariant.default": "Default",
+        "rpo.recovered.regularCategory.quickChargeVariant.altOne": "Alternative 1",
+        "rpo.recovered.regularCategory.quickChargeVariant.altTwo": "Alternative 2"
 }
