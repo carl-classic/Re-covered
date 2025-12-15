@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/swift_sneak"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

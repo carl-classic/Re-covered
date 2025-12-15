@@ -6,11 +6,21 @@
     {
         animatedCategory:
         {
-            depthStrider: true,
+            depthStrider:
+            {
+                type: "enum",
+                values: ["animated", "old", "static"],
+                default: "animated"
+            },
             fireAspect: true,
             fireProtection: true,
             flame: true,
-            respiration: true,
+            respiration:
+            {
+                type: "enum",
+                values: ["animated", "old", "static"],
+                default: "animated"
+            },
             soulSpeed: true,
             swiftSneak: true,
             vanishingCurse: true,
@@ -49,6 +59,12 @@
             {
                 type: "enum",
                 values: ["default", "altOne", "altTwo"],
+                default: "default"
+            },
+            packPng:
+            {
+                type: "enum",
+                values: ["default", "pixelated"],
                 default: "default"
             }
         }

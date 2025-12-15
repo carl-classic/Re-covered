@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/feather_falling"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

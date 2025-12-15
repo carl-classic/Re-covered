@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/aqua_affinity"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

@@ -1,0 +1,4 @@
+{
+    condition: "recovered.regularCategory.packPng.default",
+    fallback: "pack_32x32.png"
+}

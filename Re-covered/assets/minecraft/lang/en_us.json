@@ -1,0 +1,73 @@
+{
+    "rpo.recovered": "Re\u002Dcovered Settings",
+    "rpo.recovered.tooltip": "",
+
+    "rpo.recovered.animatedCategory": "Animated Textures...",
+    "rpo.recovered.animatedCategory.tooltip": "Choose whether textures should be animated or static",
+
+        "rpo.recovered.animatedCategory.staticVariants": "Static Variants...",
+        "rpo.recovered.animatedCategory.staticVariants.tooltip": "Choose which variant to use for each static texture",
+
+                "rpo.recovered.animatedCategory.staticVariants.respiration": "Respiration §7(Static)",
+                "rpo.recovered.animatedCategory.staticVariants.respiration.noBubbles": "No Bubbles",
+                "rpo.recovered.animatedCategory.staticVariants.respiration.bubbles": "With Bubbles",
+
+                "rpo.recovered.animatedCategory.staticVariants.soulSpeed": "Soul Speed §7(Static)",
+                "rpo.recovered.animatedCategory.staticVariants.soulSpeed.noSoul": "No Soul",
+                "rpo.recovered.animatedCategory.staticVariants.soulSpeed.soul": "With Soul",
+
+                "rpo.recovered.animatedCategory.staticVariants.vanishingCurse": "Curse Of Vanishing §7(Static)",
+                "rpo.recovered.animatedCategory.staticVariants.vanishingCurse.paper": "With Paper",
+                "rpo.recovered.animatedCategory.staticVariants.vanishingCurse.noPaper": "No Paper",
+
+
+
+        "rpo.recovered.animatedCategory.depthStrider": "Depth Strider",
+        "rpo.recovered.animatedCategory.depthStrider.animated": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.depthStrider.old": "§6[§e⌚§r§6]§r Old Animation",
+        "rpo.recovered.animatedCategory.depthStrider.static": "§4[§c§l✘§r§4]§r Static   ",
+        
+        "rpo.recovered.animatedCategory.fireAspect": "Fire Aspect",
+        "rpo.recovered.animatedCategory.fireAspect.true": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.fireAspect.false": "§4[§c§l✘§r§4]§r Static   ",
+        
+        "rpo.recovered.animatedCategory.fireProtection": "Fire Protection",
+        "rpo.recovered.animatedCategory.fireProtection.true": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.fireProtection.false": "§4[§c§l✘§r§4]§r Static   ",
+
+        "rpo.recovered.animatedCategory.flame": "Flame",
+        "rpo.recovered.animatedCategory.flame.true": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.flame.false": "§4[§c§l✘§r§4]§r Static   ",
+
+        "rpo.recovered.animatedCategory.respiration": "Respiration",
+        "rpo.recovered.animatedCategory.respiration.animated": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.respiration.old": "§6[§e⌚§r§6]§r Old Animation",
+        "rpo.recovered.animatedCategory.respiration.static": "§4[§c§l✘§r§4]§r Static   ",
+
+        "rpo.recovered.animatedCategory.soulSpeed": "Soul Speed",
+        "rpo.recovered.animatedCategory.soulSpeed.true": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.soulSpeed.false": "§4[§c§l✘§r§4]§r Static   ",
+
+        "rpo.recovered.animatedCategory.swiftSneak": "Swift Sneak",
+        "rpo.recovered.animatedCategory.swiftSneak.true": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.swiftSneak.false": "§4[§c§l✘§r§4]§r Static   ",
+
+        "rpo.recovered.animatedCategory.vanishingCurse": "Curse Of Vanishing",
+        "rpo.recovered.animatedCategory.vanishingCurse.true": "§2[§r§a§l✔§r§2]§r Animated",
+        "rpo.recovered.animatedCategory.vanishingCurse.false": "§4[§c§l✘§r§4]§r Static   ",
+
+    "rpo.recovered.regularCategory": "Options...",
+
+        "rpo.recovered.regularCategory.recipeBookButton": "Recipe Book Button Background Transparency",
+        "rpo.recovered.regularCategory.recipeBookButton.opaque": "Opaque",
+        "rpo.recovered.regularCategory.recipeBookButton.transparent": "Transparent",
+
+        "rpo.recovered.regularCategory.quickChargeVariant": "Quick Charge Variant",
+        "rpo.recovered.regularCategory.quickChargeVariant.default": "Default",
+        "rpo.recovered.regularCategory.quickChargeVariant.altOne": "Alternative 1",
+        "rpo.recovered.regularCategory.quickChargeVariant.altTwo": "Alternative 2",
+
+        "rpo.recovered.regularCategory.packPng": "Pack Icon",
+        "rpo.recovered.regularCategory.packPng.default": "Default",
+        "rpo.recovered.regularCategory.packPng.pixelated": "Pixelated"
+}
