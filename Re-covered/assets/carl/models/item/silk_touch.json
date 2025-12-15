@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/silk_touch"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

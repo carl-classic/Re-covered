@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/wind_burst"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

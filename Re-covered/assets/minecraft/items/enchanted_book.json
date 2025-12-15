@@ -32,7 +32,6 @@
         },
         "on_false": {
           "type": "minecraft:condition",
-          "model": "minecraft:item/enchanted_book",
           "property": "minecraft:component",
           "predicate": "minecraft:stored_enchantments",
           "value": [

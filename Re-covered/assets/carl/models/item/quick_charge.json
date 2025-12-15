@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/quick_charge"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

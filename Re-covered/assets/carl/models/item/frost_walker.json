@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/frost_walker"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }

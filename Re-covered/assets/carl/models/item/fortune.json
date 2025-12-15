@@ -3,7 +3,5 @@
 	"textures":
     {
 		"layer0": "carl:item/fortune"
-	},
-	"gui_light": "front",
-	"display": {}
+	}
 }
