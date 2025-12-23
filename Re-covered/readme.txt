@@ -1,4 +1,4 @@
-Re-covered 2.1 - vanilla branch
+Re-covered 2.2 - vanilla branch
 
 1. Options
     (!) Use the "/legacy_support/assets/minecraft/optifine/cit/vanilla/"
@@ -22,9 +22,14 @@ Re-covered 2.1 - vanilla branch
         with one of the textures located in the "alternative/" folder.
 
 2. Changelog
+    This changelog describes changes in this branch, not this project's releases.
+
+    Update 2.2:
+    -updated version number
+
     Update 2.1:
-    - renamed en_US.json to en_us.json
-    
+    - updated version number
+
     Update 2.0:
     - 1.21.11 support
     - added Lunge texture
