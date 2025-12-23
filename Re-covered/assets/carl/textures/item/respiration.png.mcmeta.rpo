@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.respiration.animated",
+    fallback: "assets/carl/textures/item/alternative/respiration_old.png.mcmeta"
+}
