@@ -1,4 +1,4 @@
-Re-covered 2.2
+Re-covered 2.2 - respackopts branch
 
 1. Options
     Use the mod "Respackopts" to access this resource pack's settings in-game.
