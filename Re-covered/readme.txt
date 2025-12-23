@@ -1,4 +1,4 @@
-Re-covered 2.1
+Re-covered 2.2
 
 1. Options
     Use the mod "Respackopts" to access this resource pack's settings in-game.
@@ -29,6 +29,9 @@ Re-covered 2.1
         In the root directory, replace the 'pack.png' file with 'pack_32x32.png'.
 
 2. Changelog
+    Update 2.2:
+    - fixed old Respiration animation ending too early
+
     Update 2.1:
     - renamed en_US.json to en_us.json, so Respackopts can read the file when the pack is zipped
     
