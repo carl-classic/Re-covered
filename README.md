@@ -22,20 +22,20 @@ Now you can simply judge the book... by its cover.
 <details>
 <summary>Supported Minecraft versions</summary>
   
-| Version             | Requirements          |
-|--------------------:|:--------------------- |
-| 1.21.5+             | ✓ no mods required      |
+| Version             | Support                  |
+|--------------------:|:-------------------------|
+| 1.21.5+             | ✓                        |
 | 1.21.4 - 1.21.2     | ⓘ [Optifine](https://optifine.net/home) required |
-| 1.21.1 - 1.18       | ⓘ [Optifine](https://optifine.net/home) or [CIT Resewn](https://modrinth.com/mod/cit-resewn) required |
+| 1.21.1 - 1.18       | ⓘ [Optifine](https://optifine.net/home) or [CIT Resewn](https://modrinth.com/mod/cit-resewn) required   |
 
 </details>
 
 <details>
 <summary>Permissions • Contact • Feedback</summary>
 
+- You can contact me directly at: boxtthehorse@gmail.com
+- For feedback, bugs, questions, criticism, or suggestions, visit the [GitHub repository](https://github.com/carl-classic/Re-covered/issues/new/choose)
 - You may use the included .json code for personal and commercial use. The [license](https://creativecommons.org/licenses/by-nc-nd/4.0/) applies to the rest of the project
-- For questions or collaboration, contact me: boxtthehorse@gmail.com
-- For feedback, criticism or suggestions, use the issues panel in this repository.
 </details>
 
 <details>
@@ -44,5 +44,5 @@ Now you can simply judge the book... by its cover.
 As for now, I'm maintaining the resource pack, listening to all of the criticism and suggestions, hoping to make it even better than it already is. Every time Mojang adds a new enchantment, I will try to be there to come up with something polished. Currently I have no plans for creating mod compatibilities.
 
 Thank you for downloading and sharing my project, it makes me very proud.\
-19 IX 2025
+15 XII 2025
 </details>
