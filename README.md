@@ -6,7 +6,8 @@ This repository contains in-development features that may not be present in the 
 - fix one pixel in Efficiency
 - fix `/assets/carl/textures/item/not_animated/respiration2.png.rpo`
 - tweak transparent recipe button
-- fix pack.mcmeta
+- fix pack.mcmeta version range
+- change in-game pack description
 - tooltip for transparent recipe button
 
 ## Modrinth Description
