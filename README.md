@@ -22,11 +22,11 @@ Now you can simply judge the book... by its cover.
 <details>
 <summary>Supported Minecraft versions</summary>
   
-| Version             | Support                  |
-|--------------------:|:-------------------------|
-| 1.21.5+             | ✓                        |
-| 1.21.4 - 1.21.2     | ⓘ [Optifine](https://optifine.net/home) required |
-| 1.21.1 - 1.18       | ⓘ [Optifine](https://optifine.net/home) or [CIT Resewn](https://modrinth.com/mod/cit-resewn) required   |
+| Version             | Support                |
+|--------------------:|:---------------------  |
+| 1.21.5+             | ✓                      |
+| 1.21.4 - 1.21.2     | ⓘ [Variants-CIT](https://modrinth.com/project/jURjbCaq) required |
+| 1.21.1 - 1.18       | ⓘ [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [OptiFine](https://optifine.net/home) required |
 
 </details>
 
