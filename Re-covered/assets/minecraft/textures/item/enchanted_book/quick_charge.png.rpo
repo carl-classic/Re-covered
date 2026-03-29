@@ -1,0 +1,4 @@
+{
+    condition: "recovered.regularCategory.quickChargeVariant.default",
+    fallback: "assets/minecraft/textures/item/enchanted_book/alternative/quick_charge_alt1.png"
+}

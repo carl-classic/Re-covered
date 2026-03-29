@@ -1,6 +1,11 @@
 Re-covered 3.0 (Variants-CIT)
 
 1. Options
+    Use the mod "Respackopts" to access this resource pack's settings in-game.
+
+    Alternatively, you can use your file explorer to change which files
+    this resource pack should use.
+
     a) Disable animated textures
         Go to "/assets/minecraft/textures/item/enchanted_book/" and replace the animated textures
         with the ones located in the "not_animated/" folder.
@@ -31,6 +36,13 @@ Re-covered 3.0 (Variants-CIT)
     - fixed one pixel in Efficiency
     - fixed another pixel in Unbreaking
 
+    Respackopts
+    - fixed `.../not_animated/respiration2.png.rpo` lacking `.animated` suffix in its condition
+    - added tooltip for transparent recipe book button option
+
     Update 3.0 (Variants-CIT exclusive)
     - changed pack description
     - new folder structure
+
+    Respackopts
+    - changed respackopts version from 14 to 12

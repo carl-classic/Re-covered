@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.respiration.animated",
+    fallback: "assets/minecraft/textures/item/enchanted_book/alternative/respiration_old.png.mcmeta"
+}

@@ -1,0 +1,72 @@
+{
+    id: "recovered",
+    version: 12,
+    capabilities: ["FileFilter", "DirFilter"],
+    'conf':
+    {
+        animatedCategory:
+        {
+            depthStrider:
+            {
+                type: "enum",
+                values: ["animated", "old", "static"],
+                default: "animated"
+            },
+            fireAspect: true,
+            fireProtection: true,
+            flame: true,
+            respiration:
+            {
+                type: "enum",
+                values: ["animated", "old", "static"],
+                default: "animated"
+            },
+            soulSpeed: true,
+            swiftSneak: true,
+            vanishingCurse: true,
+            
+            staticVariants:
+            {
+                respiration:
+                {
+                    type: "enum",
+                    values: ["noBubbles", "bubbles"],
+                    default: "noBubbles"
+                },
+                soulSpeed:
+                {
+                    type: "enum",
+                    values: ["noSoul", "soul"],
+                    default: "noSoul"
+                },
+                vanishingCurse:
+                {
+                    type: "enum",
+                    values: ["paper", "noPaper"],
+                    default: "paper"
+                }
+            }
+        },
+        regularCategory:
+        {
+            recipeBookButton:
+            {
+                type: "enum",
+                values: ["opaque", "transparent"],
+                default: "opaque"
+            },
+            quickChargeVariant:
+            {
+                type: "enum",
+                values: ["default", "altOne", "altTwo"],
+                default: "default"
+            },
+            packPng:
+            {
+                type: "enum",
+                values: ["default", "pixelated"],
+                default: "default"
+            }
+        }
+    }
+}

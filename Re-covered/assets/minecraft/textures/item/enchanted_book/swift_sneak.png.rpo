@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.swiftSneak",
+    fallback: "assets/minecraft/textures/item/enchanted_book/not_animated/swift_sneak.png"
+}
