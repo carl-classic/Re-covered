@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.depthStrider.animated",
+    fallback: "assets/carl/textures/item/alternative/depth_strider_old.png"
+}

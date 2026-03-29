@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.fireProtection",
+    fallback: "assets/carl/textures/item/not_animated/fire_protection.png"
+}

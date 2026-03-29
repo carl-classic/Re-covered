@@ -1,0 +1,3 @@
+{
+    condition: "!recovered.animatedCategory.vanishingCurse & recovered.animatedCategory.staticVariants.vanishingCurse.noPaper"
+}

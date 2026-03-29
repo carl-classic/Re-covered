@@ -1,0 +1,4 @@
+{
+    condition: "!recovered.animatedCategory.soulSpeed & recovered.animatedCategory.staticVariants.soulSpeed.noSoul",
+    fallback: "assets/carl/textures/item/not_animated/soul_speed2.png"
+}

@@ -1,7 +1,12 @@
 Re-covered 3.0.1
 
 1. Options
-   a) Disable animated textures
+    Use the mod "Respackopts" to access this resource pack's settings in-game.
+    
+    Alternatively, you can use your file explorer to change which files
+    this resource pack should use.
+
+    a) Disable animated textures
         Go to "/assets/carl/textures/item/" and replace the animated textures
         with the ones located in the "not_animated/" folder.
     
@@ -33,3 +38,8 @@ Re-covered 3.0.1
     - tweaked transparent recipe book button texture
     - fixed one pixel in Efficiency
     - fixed another pixel in Unbreaking
+
+    Respackopts
+    - fixed `.../not_animated/respiration2.png.rpo` lacking `.animated` suffix in its condition
+    - added tooltip for transparent recipe book button option
+    - changed respackopts version from 14 to 13

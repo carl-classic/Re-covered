@@ -1,0 +1,4 @@
+{
+    condition: "!recovered.animatedCategory.respiration.animated & recovered.animatedCategory.staticVariants.respiration.noBubbles",
+    fallback: "assets/carl/textures/item/not_animated/respiration2.png"
+}

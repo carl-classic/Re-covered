@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.vanishingCurse",
+    fallback: "assets/carl/textures/item/not_animated/vanishing_curse.png"
+}
