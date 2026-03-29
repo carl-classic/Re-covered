@@ -1,0 +1,4 @@
+{
+    condition: "recovered.regularCategory.quickChargeVariant.altOne",
+    fallback: "assets/minecraft/optifine/cit/vanilla/alternative/quick_charge_alt2.png"
+}

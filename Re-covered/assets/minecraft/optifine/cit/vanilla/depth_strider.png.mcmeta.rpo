@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.depthStrider.animated",
+    fallback: "assets/minecraft/optifine/cit/vanilla/alternative/depth_strider_old.png.mcmeta"
+}

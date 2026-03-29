@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.respiration.animated",
+    fallback: "assets/minecraft/optifine/cit/vanilla/alternative/respiration_old.png.mcmeta"
+}

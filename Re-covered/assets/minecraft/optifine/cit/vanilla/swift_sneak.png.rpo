@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.swiftSneak",
+    fallback: "assets/minecraft/optifine/cit/vanilla/not_animated/swift_sneak.png"
+}

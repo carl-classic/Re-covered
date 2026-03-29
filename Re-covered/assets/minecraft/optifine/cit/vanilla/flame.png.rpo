@@ -1,0 +1,4 @@
+{
+    condition: "recovered.animatedCategory.flame",
+    fallback: "assets/minecraft/optifine/cit/vanilla/not_animated/flame.png"
+}

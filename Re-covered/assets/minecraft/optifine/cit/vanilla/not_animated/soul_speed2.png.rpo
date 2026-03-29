@@ -1,0 +1,3 @@
+{
+    condition: "!recovered.animatedCategory.soulSpeed & recovered.animatedCategory.staticVariants.soulSpeed.soul"
+}

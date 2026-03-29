@@ -1,0 +1,4 @@
+{
+    condition: "!recovered.animatedCategory.respiration.animated & recovered.animatedCategory.staticVariants.respiration.noBubbles",
+    fallback: "assets/minecraft/optifine/cit/vanilla/not_animated/respiration2.png"
+}

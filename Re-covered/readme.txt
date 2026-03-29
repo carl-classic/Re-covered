@@ -1,6 +1,11 @@
 Re-covered 3.0 (CIT Resewn)
 
 1. Options
+    Use the mod "Respackopts" to access this resource pack's settings in-game.
+    
+    Alternatively, you can use your file explorer to change which files
+    this resource pack should use.
+
     a) Disable animated textures
         Go to "/assets/minecraft/optifine/cit/vanilla/" and replace the animated textures
         with the ones located in the "not_animated/" folder.
@@ -31,8 +36,16 @@ Re-covered 3.0 (CIT Resewn)
     - fixed one pixel in Efficiency
     - fixed another pixel in Unbreaking
 
+    Respackopts
+    - fixed `.../not_animated/respiration2.png.rpo` lacking `.animated` suffix in its condition
+    - added tooltip for transparent recipe book button option
+
     Update 3.0 (CIT Resewn exclusive)
     - changed pack description
     - fixed sweeping edge not displaying texture in some versions
     - removed option for transparent recipe book button texture, since this version of Minecraft doesn't support this feature (only 1.21.2+)
+
+    Respackopts
+    - changed respackopts version from 14 to 9
+    - added tooltip to pack icon option about supported versions
     
