@@ -48,7 +48,7 @@
                 values: ["animated", "static"],
                 default: "animated"
             },
-            vanishingCurse
+            vanishingCurse:
             {
                 type: "enum",
                 values: ["animated", "static"],
