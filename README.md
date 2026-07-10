@@ -6,10 +6,11 @@ Feel free to suggest changes.
 ## To do
 - make animation of Curse of Vanishing and Respiration less frequent
 - tweak enchanted book texture
-- fix "Animated" buttons displaying as "True" in CIT versions
+- ~~fix "Animated" buttons displaying as "True" in CIT versions~~
 - consider adding indicator to multi enchantment books
 - better design for Aqua Affinity
 - better Flame animation
+- ~~fix `efficiency3.0.png`'s name~~
 - more golden pickaxe in Efficiency
 - darker paper in various books
 - add detail to Bane of Arthropods
