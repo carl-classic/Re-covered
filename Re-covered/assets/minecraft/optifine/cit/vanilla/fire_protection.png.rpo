@@ -1,4 +1,4 @@
 {
-    condition: "recovered.animatedCategory.fireProtection",
+    condition: "recovered.animatedCategory.fireProtection.animated",
     fallback: "assets/minecraft/optifine/cit/vanilla/not_animated/fire_protection.png"
 }

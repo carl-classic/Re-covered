@@ -1,4 +1,4 @@
 {
-    condition: "recovered.animatedCategory.vanishingCurse",
+    condition: "recovered.animatedCategory.vanishingCurse.animated",
     fallback: "assets/minecraft/optifine/cit/vanilla/not_animated/vanishing_curse.png"
 }

@@ -1,3 +1,3 @@
 {
-    condition: "!recovered.animatedCategory.swiftSneak"
+    condition: "!recovered.animatedCategory.swiftSneak.animated"
 }
