@@ -15,19 +15,19 @@
             fireAspect:
             {
                 type: "enum",
-                values: ["animated", "old", "static"],
+                values: ["animated", "static"],
                 default: "animated"
             },
             fireProtection:
             {
                 type: "enum",
-                values: ["animated", "old", "static"],
+                values: ["animated", "static"],
                 default: "animated"
             },
             flame:
             {
                 type: "enum",
-                values: ["animated", "old", "static"],
+                values: ["animated", "static"],
                 default: "animated"
             },
             respiration:
@@ -39,19 +39,19 @@
             soulSpeed:
             {
                 type: "enum",
-                values: ["animated", "old", "static"],
+                values: ["animated", "static"],
                 default: "animated"
             },
             swiftSneak:
             {
                 type: "enum",
-                values: ["animated", "old", "static"],
+                values: ["animated", "static"],
                 default: "animated"
             },
             vanishingCurse
             {
                 type: "enum",
-                values: ["animated", "old", "static"],
+                values: ["animated", "static"],
                 default: "animated"
             },
             
