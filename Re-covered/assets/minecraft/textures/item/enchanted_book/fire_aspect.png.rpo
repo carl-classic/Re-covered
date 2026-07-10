@@ -1,4 +1,4 @@
 {
-    condition: "recovered.animatedCategory.fireAspect",
+    condition: "recovered.animatedCategory.fireAspect.animated",
     fallback: "assets/minecraft/textures/item/enchanted_book/not_animated/fire_aspect.png"
 }

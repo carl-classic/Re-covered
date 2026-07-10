@@ -4,7 +4,7 @@
     capabilities: ["FileFilter", "DirFilter"],
     'conf':
     {
-        animatedCategory:
+        aanimatedCategory:
         {
             depthStrider:
             {
@@ -12,18 +12,48 @@
                 values: ["animated", "old", "static"],
                 default: "animated"
             },
-            fireAspect: true,
-            fireProtection: true,
-            flame: true,
+            fireAspect:
+            {
+                type: "enum",
+                values: ["animated", "static"],
+                default: "animated"
+            },
+            fireProtection:
+            {
+                type: "enum",
+                values: ["animated", "static"],
+                default: "animated"
+            },
+            flame:
+            {
+                type: "enum",
+                values: ["animated", "static"],
+                default: "animated"
+            },
             respiration:
             {
                 type: "enum",
                 values: ["animated", "old", "static"],
                 default: "animated"
             },
-            soulSpeed: true,
-            swiftSneak: true,
-            vanishingCurse: true,
+            soulSpeed:
+            {
+                type: "enum",
+                values: ["animated", "static"],
+                default: "animated"
+            },
+            swiftSneak:
+            {
+                type: "enum",
+                values: ["animated", "static"],
+                default: "animated"
+            },
+            vanishingCurse:
+            {
+                type: "enum",
+                values: ["animated", "static"],
+                default: "animated"
+            },
             
             staticVariants:
             {
@@ -64,8 +94,8 @@
             packPng:
             {
                 type: "enum",
-                values: ["default", "pixelated"],
-                default: "default"
+                values: ["hd", "pixelated"],
+                default: "hd"
             }
         }
     }

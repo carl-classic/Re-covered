@@ -1,4 +1,4 @@
 {
-    condition: "recovered.animatedCategory.flame",
+    condition: "recovered.animatedCategory.flame.animated",
     fallback: "assets/minecraft/textures/item/enchanted_book/not_animated/flame.png"
 }

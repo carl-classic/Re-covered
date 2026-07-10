@@ -1,4 +1,4 @@
 {
-    condition: "!recovered.animatedCategory.vanishingCurse & recovered.animatedCategory.staticVariants.vanishingCurse.paper",
+    condition: "!recovered.animatedCategory.vanishingCurse.animated & recovered.animatedCategory.staticVariants.vanishingCurse.paper",
     fallback: "assets/minecraft/textures/item/enchanted_book/not_animated/vanishing_curse2.png"
 }
