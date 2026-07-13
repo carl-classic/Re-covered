@@ -4,7 +4,7 @@ This repository may be ahead or behind the changes featured in the latest releas
 Feel free to suggest changes.
 
 ## To do
-- make animation of Curse of Vanishing and Respiration less frequent
+- ~~make animation of Curse of Vanishing and Respiration less frequent~~
 - tweak enchanted book texture
 - ~~fix "Animated" buttons displaying as "True" in CIT versions~~
 - consider adding indicator to multi enchantment books
