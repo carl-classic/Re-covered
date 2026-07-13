@@ -4,8 +4,6 @@ This repository may be ahead or behind the changes featured in the latest releas
 Feel free to suggest changes.
 
 ## To do
-
-- [ ] tweak enchanted book texture
 - [ ] consider adding indicator to multi enchantment books
 - [ ] new Aqua Affinity
 - [ ] more golden pickaxe in Efficiency
@@ -16,6 +14,8 @@ Feel free to suggest changes.
 - [ ] better Flame (bow) animation
 - [ ] better Fire Aspect animation
 - [ ] better Depth Strider animation
+- [x] tweak enchanted book texture
+- [x] match curse of vanishing with new enchanted book
 - [x] make animation of Curse of Vanishing and Respiration less frequent
 - [x] fix "Animated" buttons displaying as "True" in CIT versions
 - [x] fix `efficiency3.0.png`'s name
