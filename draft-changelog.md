@@ -1,8 +1,10 @@
 # Re-covered 4.0
 ## Update 4.0
+- made Efficiency's golden pickaxe glyph shinier
+- made Enchanted Book look more vanilla
+- added shadow to Curse of Vanishing's ribbon
 - made animations of Respiration and Curse of Vanishing less frequent
-- make Enchanted Book look more vanilla
-- add shadow to Curse of Vanishing's ribbon
+
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
 
