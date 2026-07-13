@@ -1,5 +1,5 @@
 ## About
-Repository of a minecraft resource pack [Re-covered](https://modrinth.com/project/6gN7YVi7) meant for feedback & discussions.\
+Repository of a Minecraft resource pack _[Re-covered](https://modrinth.com/project/6gN7YVi7)_ meant for feedback & discussions.\
 This repository may be ahead or behind the changes featured in the latest release.\
 Feel free to suggest changes.
 
