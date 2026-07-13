@@ -6,7 +6,6 @@ Feel free to suggest changes.
 ## To do
 - [ ] consider adding indicator to multi enchantment books
 - [ ] new Aqua Affinity
-- [ ] more golden pickaxe in Efficiency
 - [ ] darker paper in various books
 - [ ] add detail to Bane of Arthropods
 - [ ] rotate Wind Burst
@@ -14,6 +13,7 @@ Feel free to suggest changes.
 - [ ] better Flame (bow) animation
 - [ ] better Fire Aspect animation
 - [ ] better Depth Strider animation
+- [x] more golden pickaxe in Efficiency
 - [x] tweak enchanted book texture
 - [x] match curse of vanishing with new enchanted book
 - [x] make animation of Curse of Vanishing and Respiration less frequent
