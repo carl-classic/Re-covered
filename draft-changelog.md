@@ -1,5 +1,6 @@
 # Re-covered 4.0
 ## Update 4.0
+- made animations of Respiration and Curse of Vanishing less frequent
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
 
