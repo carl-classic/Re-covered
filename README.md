@@ -4,20 +4,20 @@ This repository may be ahead or behind the changes featured in the latest releas
 Feel free to suggest changes.
 
 ## To do
-- ~~make animation of Curse of Vanishing and Respiration less frequent~~
-- tweak enchanted book texture
-- ~~fix "Animated" buttons displaying as "True" in CIT versions~~
-- consider adding indicator to multi enchantment books
-- better design for Aqua Affinity
-- better Flame animation
-- ~~fix `efficiency3.0.png`'s name~~
-- more golden pickaxe in Efficiency
-- darker paper in various books
-- add detail to Bane of Arthropods
-- try to rotate Wind Burst
-- add (subtle) shine animation to Frost Walker
-- tweak animation of Fire Aspect
-- do something with Depth Strider cause I'm not very happy with its animation
+- [x] make animation of Curse of Vanishing and Respiration less frequent
+- [ ] tweak enchanted book texture
+- [x] fix "Animated" buttons displaying as "True" in CIT versions
+- [ ] consider adding indicator to multi enchantment books
+- [ ] better design for Aqua Affinity
+- [ ] better Flame animation
+- [x] fix `efficiency3.0.png`'s name
+- [ ] more golden pickaxe in Efficiency
+- [ ] darker paper in various books
+- [ ] add detail to Bane of Arthropods
+- [ ] try to rotate Wind Burst
+- [ ] add (subtle) shine animation to Frost Walker
+- [ ] tweak animation of Fire Aspect
+- [ ] do something with Depth Strider cause I'm not very happy with its animation
 
 ## Modrinth Description
 [![Static Badge](https://img.shields.io/badge/Download_Page-Modrinth-blue?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMTIgMTZsLTUtNWwxLjQtMS40NWwyLjYgMi42VjRoMnY4LjE1bDIuNi0yLjZMMTcgMTF6bS02IDRxLS44MjUgMC0xLjQxMi0uNTg3VDQgMTh2LTNoMnYzaDEydi0zaDJ2M3EwIC44MjUtLjU4NyAxLjQxM1QxOCAyMHoiLz48L3N2Zz4%3D&color=rgb(0%2C%20188%2C%2088))
