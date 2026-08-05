@@ -1,6 +1,6 @@
 ## About
 Repository of a Minecraft resource pack _[Re-covered](https://modrinth.com/project/6gN7YVi7)_ meant for feedback & discussions.\
-This repository may be ahead or behind the changes featured in the latest release.\
+This repository contains latest development changes and is ahead of the latest release.\
 Feel free to suggest changes.
 
 ## To do
