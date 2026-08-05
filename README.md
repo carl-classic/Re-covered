@@ -5,6 +5,7 @@ Feel free to suggest changes.
 
 ## To do
 - [ ] consider adding indicator to multi enchantment books
+- [ ] consider adding indicator to max level enchantments
 - [ ] new Aqua Affinity
 - [ ] darker paper in various books
 - [ ] polish Efficiency
