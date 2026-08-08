@@ -8,7 +8,6 @@ Feel free to suggest changes.
 - [ ] consider adding indicator to max level enchantments
 - [ ] new Aqua Affinity
 - [ ] darker paper in various books
-- [ ] polish Efficiency
 - [ ] add detail to Bane of Arthropods
 - [ ] rotate Wind Burst
 - [ ] Frost Walker shine animation
