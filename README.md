@@ -14,7 +14,7 @@ Feel free to suggest changes.
   - [x] Fire Protection
   - [x] Efficiency
   - [x] Silk Touch
-- [ ] add detail to Bane of Arthropods
+- [x] add detail to Bane of Arthropods
 - [ ] rotate Wind Burst
 - [ ] Frost Walker shine animation
 - [ ] better Flame (bow) animation
