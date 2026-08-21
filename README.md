@@ -4,10 +4,16 @@ This repository contains latest development changes and is ahead of the latest r
 Feel free to suggest changes.
 
 ## To do
-- [ ] 🔄 consider adding indicator to multi enchantment books
+- [ ] ↪️consider adding indicator to multi enchantment books
 - [ ] consider adding indicator to max level enchantments
 - [ ] new Aqua Affinity
-- [ ] 🔄 darker paper in various books
+- [ ] ↪️darker paper in various books
+  - [x] Respiration & Aqua Affinity
+  - [x] Bane of Arthropods
+  - [ ] Mending
+  - [ ] Fire Protection
+  - [ ] Efficiency
+  - [ ] Silk Touch
 - [ ] add detail to Bane of Arthropods
 - [ ] rotate Wind Burst
 - [ ] Frost Walker shine animation
