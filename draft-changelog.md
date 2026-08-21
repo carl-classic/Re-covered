@@ -4,7 +4,8 @@
 - made Enchanted Book look more vanilla
 - added shadow to Curse of Vanishing's ribbon
 - made animations of Respiration and Curse of Vanishing less frequent
-- darker paper of Respiration, Aqua Affinity, Bane of Arthropods
+- color correction of paper for Respiration, Aqua Affinity, Bane of Arthropods, Efficiency, Mending, Silk Touch and Fire Protection
+- added detail to Bane of Arthropods
 
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
