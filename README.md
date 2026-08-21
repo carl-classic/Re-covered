@@ -7,6 +7,12 @@ Feel free to suggest changes.
 - [ ] ↪️consider adding indicator to multi enchantment books
 - [ ] consider adding indicator to max level enchantments
 - [ ] new Aqua Affinity
+- [ ] rotate Wind Burst
+- [ ] Frost Walker shine animation
+- [ ] better Flame (bow) animation
+- [ ] better Fire Aspect animation
+- [ ] better Depth Strider animation
+- [x] add detail to Bane of Arthropods
 - [x] darker/ desaturated paper in various books
   - [x] Respiration & Aqua Affinity
   - [x] Bane of Arthropods
@@ -14,12 +20,6 @@ Feel free to suggest changes.
   - [x] Fire Protection
   - [x] Efficiency
   - [x] Silk Touch
-- [x] add detail to Bane of Arthropods
-- [ ] rotate Wind Burst
-- [ ] Frost Walker shine animation
-- [ ] better Flame (bow) animation
-- [ ] better Fire Aspect animation
-- [ ] better Depth Strider animation
 - [x] more golden pickaxe in Efficiency
 - [x] tweak enchanted book texture
 - [x] match curse of vanishing with new enchanted book
