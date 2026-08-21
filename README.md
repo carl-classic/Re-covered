@@ -7,13 +7,13 @@ Feel free to suggest changes.
 - [ ] ↪️consider adding indicator to multi enchantment books
 - [ ] consider adding indicator to max level enchantments
 - [ ] new Aqua Affinity
-- [ ] ↪️darker paper in various books
+- [x] darker/ desaturated paper in various books
   - [x] Respiration & Aqua Affinity
   - [x] Bane of Arthropods
-  - [ ] Mending
-  - [ ] Fire Protection
-  - [ ] Efficiency
-  - [ ] Silk Touch
+  - [x] Mending
+  - [x] Fire Protection
+  - [x] Efficiency
+  - [x] Silk Touch
 - [ ] add detail to Bane of Arthropods
 - [ ] rotate Wind Burst
 - [ ] Frost Walker shine animation
