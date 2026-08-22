@@ -7,6 +7,7 @@
 - color correction of paper for Respiration, Aqua Affinity, Bane of Arthropods, Efficiency, Mending, Silk Touch and Fire Protection
 - added detail to Bane of Arthropods
 - 2nd color correction of Respiration, Aqua Affinity, Bane of Arthropods, Swift Sneak
+- added one-pixel shadow to Unbreaking and Curse of Binding
 
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
