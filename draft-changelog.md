@@ -6,6 +6,7 @@
 - made animations of Respiration and Curse of Vanishing less frequent
 - color correction of paper for Respiration, Aqua Affinity, Bane of Arthropods, Efficiency, Mending, Silk Touch and Fire Protection
 - added detail to Bane of Arthropods
+- 2nd color correction of Respiration, Aqua Affinity, Bane of Arthropods, Swift Sneak
 
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
