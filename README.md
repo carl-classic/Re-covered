@@ -20,6 +20,7 @@ Feel free to suggest changes.
   - [x] Fire Protection
   - [x] Efficiency
   - [x] Silk Touch
+  - [x] Swift Sneak
 - [x] more golden pickaxe in Efficiency
 - [x] tweak enchanted book texture
 - [x] match curse of vanishing with new enchanted book
