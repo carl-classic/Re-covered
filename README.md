@@ -4,7 +4,7 @@ This repository contains latest development changes and is ahead of the latest r
 Feel free to suggest changes.
 
 ## To do
-- [ ] ↪️consider adding indicator to multi enchantment books
+- [ ] 🔄consider adding indicator to multi enchantment books
 - [ ] consider adding indicator to max level enchantments
 - [ ] new Aqua Affinity
 - [ ] rotate Wind Burst
