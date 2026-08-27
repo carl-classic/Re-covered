@@ -12,7 +12,7 @@ Feel free to suggest changes.
 - [ ] better Flame (bow) animation
 - [ ] better Fire Aspect animation
 - [ ] better Depth Strider animation
-- [ ] review consistency of glyphs' shadows
+- [x] fix inconsistencies of glyphs' shadows
 - [x] add detail to Bane of Arthropods
 - [x] darker/ desaturated paper in various books
   - [x] Respiration & Aqua Affinity
