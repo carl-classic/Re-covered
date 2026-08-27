@@ -69,6 +69,6 @@
         "rpo.recovered.regularCategory.quickChargeVariant.altTwo": "Alternative 2",
 
         "rpo.recovered.regularCategory.packPng": "Pack Icon",
-        "rpo.recovered.regularCategory.packPng.hd": "HD",
-        "rpo.recovered.regularCategory.packPng.pixelated": "Pixelated"
+        "rpo.recovered.regularCategory.packPng.hd": "High Resolution",
+        "rpo.recovered.regularCategory.packPng.pixelated": "Pixel Art"
 }
