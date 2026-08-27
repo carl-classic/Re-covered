@@ -13,6 +13,7 @@ Feel free to suggest changes.
 - [ ] better Fire Aspect animation
 - [ ] better Depth Strider animation
 - [ ] animate Mending
+- [ ] experiment with shuffling Fire Protection and Swift Sneak's animations
 - [x] fix inconsistencies of glyphs' shadows
 - [x] add detail to Bane of Arthropods
 - [x] darker/ desaturated paper in various books
