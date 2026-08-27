@@ -8,7 +8,7 @@
 - added detail to Bane of Arthropods
 - 2nd color correction of Respiration, Aqua Affinity, Bane of Arthropods, Swift Sneak
 - added one-pixel shadow to Unbreaking and Curse of Binding
-- color correction of shadow in Lure
+- color correction of shadow in Lure, Looting and Piercing
 
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
