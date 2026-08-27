@@ -18,4 +18,4 @@
 - fixed Efficiency's incorrect name causing it to not display its texture
 
 ## 4.0 (CIT Resewn exclusive) (1.18 - 1.21.1)
-No exclusive changes related to this version variant.
+No exclusive changes to this version variant.
