@@ -2,7 +2,7 @@
 ## Update 4.0
 - made Efficiency's golden pickaxe glyph shinier
 - made Enchanted Book look more vanilla
-- added shadow to Curse of Vanishing's ribbon
+- added shadow to Curse of Vanishing's ribbon & removed the fade from it
 - made animations of Respiration and Curse of Vanishing less frequent
 - color correction of paper for Respiration, Aqua Affinity, Bane of Arthropods, Efficiency, Mending, Silk Touch and Fire Protection
 - added detail to Bane of Arthropods
