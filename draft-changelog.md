@@ -13,6 +13,7 @@
 ### Respackopts
 - fixed `Animated` and `Static` button labels appearing as `True` and `False`
 - renamed Pack Icon options from `Default` and `Pixelated` to `High Resolution` and `Pixel Art`
+- fixed and simplified config and conditions; cleaned up formatting in en_us.json
 
 ## 4.0 (Variants-CIT exclusive) (1.21.2 - 1.21.4)
 - fixed Efficiency's incorrect name causing it to not display its texture
