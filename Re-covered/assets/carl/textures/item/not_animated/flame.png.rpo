@@ -1,3 +1,3 @@
 {
-    condition: "!recovered.animatedCategory.flame.animated"
+    condition: "recovered.animatedCategory.flame.static"
 }

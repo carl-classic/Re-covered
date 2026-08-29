@@ -1,3 +1,3 @@
 {
-    condition: "!recovered.animatedCategory.vanishingCurse.animated & recovered.animatedCategory.staticVariants.vanishingCurse.noPaper"
+    condition: "recovered.animatedCategory.vanishingCurse.static & recovered.animatedCategory.staticVariants.vanishingCurse.noPaper"
 }
