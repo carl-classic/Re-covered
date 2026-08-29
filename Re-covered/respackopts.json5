@@ -6,97 +6,27 @@
     {
         animatedCategory:
         {
-            depthStrider:
-            {
-                type: "enum",
-                values: ["animated", "old", "static"],
-                default: "animated"
-            },
-            fireAspect:
-            {
-                type: "enum",
-                values: ["animated", "static"],
-                default: "animated"
-            },
-            fireProtection:
-            {
-                type: "enum",
-                values: ["animated", "static"],
-                default: "animated"
-            },
-            flame:
-            {
-                type: "enum",
-                values: ["animated", "static"],
-                default: "animated"
-            },
-            respiration:
-            {
-                type: "enum",
-                values: ["animated", "old", "static"],
-                default: "animated"
-            },
-            soulSpeed:
-            {
-                type: "enum",
-                values: ["animated", "static"],
-                default: "animated"
-            },
-            swiftSneak:
-            {
-                type: "enum",
-                values: ["animated", "static"],
-                default: "animated"
-            },
-            vanishingCurse:
-            {
-                type: "enum",
-                values: ["animated", "static"],
-                default: "animated"
-            },
+            depthStrider:   ["animated", "old", "static"],
+            fireAspect:     ["animated", "static"],
+            fireProtection: ["animated", "static"],
+            flame:          ["animated", "static"],
+            respiration:    ["animated", "old", "static"],
+            soulSpeed:      ["animated", "static"],
+            swiftSneak:     ["animated", "static"],
+            vanishingCurse: ["animated", "static"],
             
             staticVariants:
             {
-                respiration:
-                {
-                    type: "enum",
-                    values: ["noBubbles", "bubbles"],
-                    default: "noBubbles"
-                },
-                soulSpeed:
-                {
-                    type: "enum",
-                    values: ["noSoul", "soul"],
-                    default: "noSoul"
-                },
-                vanishingCurse:
-                {
-                    type: "enum",
-                    values: ["paper", "noPaper"],
-                    default: "paper"
-                }
+                respiration:    ["noBubbles", "bubbles"],
+                soulSpeed:      ["noSoul", "soul"],
+                vanishingCurse: ["paper", "noPaper"]
             }
         },
+
         regularCategory:
         {
-            recipeBookButton:
-            {
-                type: "enum",
-                values: ["opaque", "transparent"],
-                default: "opaque"
-            },
-            quickChargeVariant:
-            {
-                type: "enum",
-                values: ["default", "altOne", "altTwo"],
-                default: "default"
-            },
-            packPng:
-            {
-                type: "enum",
-                values: ["hd", "pixelated"],
-                default: "hd"
-            }
+            quickChargeVariant: ["default", "altOne", "altTwo"],
+            packPng:            ["hd", "pixelart"]
         }
     }
 }
