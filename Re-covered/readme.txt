@@ -1,4 +1,4 @@
-Re-covered 4.0 (Vanilla) (1.21.5+)
+Re-covered 4.0 (Variants-CIT) (1.21.2 - 1.21.4)
 
 1. Options
    a) Disable animated textures
