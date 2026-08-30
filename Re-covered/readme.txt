@@ -33,8 +33,3 @@ Re-covered 4.0 (Vanilla) (1.21.5+)
     - color correction of shadow in Lure and Looting
     - increased max supported pack format to 120
     - updated pack.png
-    
-    Respackopts
-    - fixed `Animated` and `Static` button labels appearing as `True` and `False`
-    - renamed Pack Icon options from `Default` and `Pixelated` to `High Resolution` and `Pixel Art`
-    - fixed and simplified config and conditions; cleaned up formatting in en_us.json
