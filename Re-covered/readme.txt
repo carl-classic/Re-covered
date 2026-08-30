@@ -50,3 +50,6 @@ Re-covered 4.0 (CIT Resewn) (1.18 - 1.21.1)
 
     Update 4.0 (CIT Resewn exclusive)
     - updated description in pack.mcmeta
+
+    Respackopts
+    - moved "Static Variants" to the main settings screen to make it compatible with older versions
