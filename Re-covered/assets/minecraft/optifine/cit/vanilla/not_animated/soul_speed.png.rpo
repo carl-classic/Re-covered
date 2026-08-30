@@ -1,4 +1,4 @@
 {
-    condition: "recovered.animatedCategory.soulSpeed.static & recovered.animatedCategory.staticVariants.soulSpeed.noSoul",
+    condition: "recovered.animatedCategory.soulSpeed.static & recovered.staticVariants.soulSpeed.noSoul",
     fallback: "assets/minecraft/optifine/cit/vanilla/not_animated/soul_speed2.png"
 }
