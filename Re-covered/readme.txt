@@ -36,7 +36,6 @@ Re-covered 4.0 (Variants-CIT) (1.21.2 - 1.21.4)
     - color correction of paper in Respiration, Aqua Affinity, Bane of Arthropods, Efficiency, Mending, Silk Touch, Swift Sneak and Fire Protection
     - added one-pixel shadow to Unbreaking and Curse of Binding
     - color correction of shadow in Lure and Looting
-    - increased max supported pack format to 120
     - updated pack.png
     
     Respackopts
