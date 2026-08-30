@@ -21,7 +21,7 @@
             respiration:    ["noBubbles", "bubbles"],
             soulSpeed:      ["noSoul", "soul"],
             vanishingCurse: ["paper", "noPaper"]
-        }
+        },
 
         regularCategory:
         {
