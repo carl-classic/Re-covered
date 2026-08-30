@@ -1,9 +1,9 @@
 Re-covered 4.0 (CIT Resewn) (1.18 - 1.21.1)
 
 1. Troubleshooting
-    Please note that the latest available version of CIT Resewn for you Minecraft version may not work with this resource pack.
+    Please note that the latest available version of CIT Resewn for your Minecraft version may not work with this resource pack.
     If the textures don't work, try downgrading CIT Resewn to an older version.
-    For example in 1.19.4, you have to use v1.1.5+1.19.4 of CIT Resewn.
+    For example, in 1.19.4, you have to use v1.1.5+1.19.4 of CIT Resewn.
 
 2. Options
     a) Disable animated textures
