@@ -1,6 +1,11 @@
 Re-covered 4.0 (Vanilla) (1.21.5+)
 
 1. Options
+    Use the mod "Respackopts" to access this resource pack's settings in-game.
+    
+    Alternatively, you can use your file explorer to change which files
+    this resource pack should use.
+
    a) Disable animated textures
         Go to "/assets/carl/textures/item/" and replace the animated textures
         with the ones located in the "not_animated/" folder.
