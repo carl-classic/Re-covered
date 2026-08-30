@@ -14,22 +14,6 @@ Feel free to suggest changes.
 - [ ] better Depth Strider animation
 - [ ] animate Mending
 - [ ] experiment with shuffling Fire Protection and Swift Sneak's animations
-- [x] fix inconsistencies of glyphs' shadows
-- [x] add detail to Bane of Arthropods
-- [x] darker/ desaturated paper in various books
-  - [x] Respiration & Aqua Affinity
-  - [x] Bane of Arthropods
-  - [x] Mending
-  - [x] Fire Protection
-  - [x] Efficiency
-  - [x] Silk Touch
-  - [x] Swift Sneak
-- [x] more golden pickaxe in Efficiency
-- [x] tweak enchanted book texture
-- [x] match curse of vanishing with new enchanted book
-- [x] make animation of Curse of Vanishing and Respiration less frequent
-- [x] fix "Animated" buttons displaying as "True" in CIT versions
-- [x] fix `efficiency3.0.png`'s name
 
 ## Modrinth Description
 <details>
