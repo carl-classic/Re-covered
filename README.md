@@ -42,7 +42,7 @@ Now you can simply judge the book... by its cover.
 <details>
 <summary>Permissions • Contact • Feedback</summary>
 
-- You can contact me directly at: boxtthehorse@gmail.com
+- You can contact me directly at: carl.classic.dev@icloud.com
 - For feedback, bugs, questions, criticism, or suggestions, visit the [GitHub repository](https://github.com/carl-classic/Re-covered/issues/new/choose)
 - You may use the included .json code for personal and commercial use. The [license](https://creativecommons.org/licenses/by-nc-nd/4.0/) applies to the rest of the project
 </details>
