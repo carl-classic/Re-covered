@@ -18,7 +18,7 @@ Re-covered 4.0 (Variants-CIT) (1.21.2 - 1.21.4)
         Go to "/assets/carl/textures/item/" and replace 'quick_charge.png'
         with one of the textures located in the "alternative/" folder.
     
-    e) Pixelated Pack Icon
+    e) Pixel art pack icon
         In the root directory, replace the 'pack.png' file with 'pack_32x32.png'.
 
 2. Changelog
