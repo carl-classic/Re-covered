@@ -14,6 +14,7 @@ Feel free to suggest changes.
 - [ ] better Depth Strider animation
 - [ ] animate Mending
 - [ ] experiment with shuffling Fire Protection and Swift Sneak's animations
+- [ ] retake promo screenshot
 
 ## Modrinth Description
 <details>
